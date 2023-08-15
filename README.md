@@ -1,2 +1,2 @@
 # YukSlicing
-Learning Slicing Page React and Tailwind CSS
+Slicing Page Using NextJS + Tailwind CSS
