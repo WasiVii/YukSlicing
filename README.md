@@ -1,2 +1,2 @@
 # YukSlicing
-Slicing Page Using NextJS + Tailwind CSS
+Slicing Design Using NextJS + Tailwind CSS
